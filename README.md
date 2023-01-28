@@ -1,4 +1,4 @@
-# Data-Analysis-Energy-Productions
+Data-Analysis-Energy-Productions
 Energy-Productions--Data-Analysis
 Data Analysis of Energy(Thermal, Nuclear and Hydro) produced everyday from 2017-2020.
 Dataset downloaded from Kaggle.
